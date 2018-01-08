@@ -8,7 +8,7 @@ background_width = 1024
 def drawObject(obj,x,y):
     global  gamepad
     gamepad.blit(obj,(x,y))
-
+# kimho
 
 def runGame():
     global gamepad,clock,hamzzi_image,background,background2
